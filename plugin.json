@@ -1,0 +1,21 @@
+{
+    "name": "kimi助手",
+    "version": "1.0.0",
+    "pluginName": "kimi助手",
+    "description": "帮助您快捷使用kimi",
+    "logo": "logo.png",
+    "preload": "preload.js",
+    "features": [
+        {
+            "code": "kimi",
+            "explain": "kimi助手",
+            "cmds": [
+                "kimi",
+                "助手",
+                "chat",
+                "gpt",
+                "聊天"
+            ]
+        }
+    ]
+}
